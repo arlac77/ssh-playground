@@ -1,0 +1,9 @@
+{
+  "name": "ssh-playground",
+  "bin": {
+    "ssh-hopper": "src/ssh-hopper-cli.mjs"
+  },
+  "dependencies": {
+    "ssh2": "^0.8.9"
+  }
+}
