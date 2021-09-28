@@ -4,6 +4,6 @@
     "ssh-hopper": "src/ssh-hopper-cli.mjs"
   },
   "dependencies": {
-    "ssh2": "^0.8.9"
+    "ssh2": "^1.4.0"
   }
 }
